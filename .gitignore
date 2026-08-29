@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+.streamlit/
+firmware/esp32_tinyml_anomaly/config.h
+*.sqlite3
+.DS_Store

@@ -1,0 +1,9 @@
+{
+  "model_size_bytes": 11432,
+  "threshold": 0.00833395216614008,
+  "threshold_percentile": 99.0,
+  "normal_error_mean": 0.005466981790959835,
+  "anomaly_error_mean": 1.6895054578781128,
+  "false_positive_rate": 0.01,
+  "recall": 1.0
+}

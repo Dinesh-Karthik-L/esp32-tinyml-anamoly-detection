@@ -1,0 +1,7 @@
+tensorflow-cpu>=2.19
+ai-edge-litert>=1.0
+numpy>=1.26
+paho-mqtt>=2.0
+pandas>=2.2
+streamlit>=1.55
+pytest>=8.0

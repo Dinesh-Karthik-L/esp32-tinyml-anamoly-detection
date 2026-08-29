@@ -1,0 +1,16 @@
+/**
+ * config.h.example - copy to config.h (same folder) and fill in your own
+ * values. config.h is gitignored so you never commit your WiFi password.
+ */
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define WIFI_SSID     "your-wifi-name"
+#define WIFI_PASSWORD "your-wifi-password"
+
+#define MQTT_HOST     "192.168.1.100"  // your broker's LAN IP
+#define MQTT_PORT     1883
+
+#define DEVICE_ID     "machine-01"     // must match what you point the dashboard at
+
+#endif

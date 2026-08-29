@@ -1,0 +1,11 @@
+{
+  "threshold": 0.008320249617099762,
+  "threshold_percentile": 99.0,
+  "normal_error_mean": 0.005460518412292004,
+  "normal_error_p99": 0.008320249617099762,
+  "anomaly_error_mean": 0.6577048897743225,
+  "false_positive_rate": 0.01,
+  "recall": 1.0,
+  "final_train_loss": 0.005403710994869471,
+  "final_val_loss": 0.005460517946630716
+}
